@@ -8,4 +8,5 @@ mkdir -p tmp/my_firt_directory creates a directory named my_first_directory in t
 mv moves betty file from tmp to myfirstdirectory
 rmdeletes the betty file
 rm -r deletes my_first_directory
+cd - returns to previous directory
  
